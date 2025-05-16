@@ -7,7 +7,8 @@
 
 ## ✨ À propos de moi
 
-Développeur curieux et créatif, j'explore différents langages et technologies pour donner vie à mes idées. Sur ce GitHub, vous trouverez un mélange de projets personnels, d'expériences web, d'applications pratiques et de tests créatifs.
+Développeur curieux et créatif, j'explore différents langages et technologies pour donner vie à mes idées.  
+Sur ce GitHub, vous trouverez un mélange de projets personnels, d'expériences web, d'applications pratiques et de tests créatifs.
 
 > 💡 *"Code, partage et améliore-toi chaque jour."*
 
@@ -35,12 +36,11 @@ Développeur curieux et créatif, j'explore différents langages et technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-
 
 ---
 
@@ -64,10 +64,15 @@ N'hésitez pas à :
 
 ---
 
+## 🐍 Activité GitHub Snake
+
+![GitHub Snake](https://github.com/BleuDragonViolet/BleuDragonViolet/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ## 📊 GitHub Stats
 
-![BleuDragonViolet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BleuDragonViolet&show_icons=true&theme=tokyonight&hide_border=true)
-
+![Stats](https://github-readme-stats.vercel.app/api?username=BleuDragonViolet&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BleuDragonViolet&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
@@ -78,18 +83,27 @@ N'hésitez pas à :
 
 ---
 
+## 🎧 En train d’écouter
+
+[![Spotify](https://novatorem-bleudragonviolet.vercel.app/api/spotify)](https://open.spotify.com/user/ton_user_id)
+
+---
+
+## 🤓 Fun Facts
+
+* 🔭 Je travaille sur : des projets web, Python, JS
+* 🧠 J'apprends actuellement : tout
+* 🐉 Pseudo de dev : BleuDragonViolet
+* 😎 Fun fact : Je fais des nuits blanches pour coder :]
+* 💬 Citation préférée :
+  *"Il marche entre l’ombre et l’éclat,
+  âme sensible aux vents contraires,
+  cherchant sa place dans un monde bruyant,
+  avec le cœur plein d’étoiles qu’il garde pour lui."*
+
+---
+
 ## 🔥 Signature stylée
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Merci%20de%20votre%20visite!%20🚀&fontColor=fff&fontSize=20&animation=fadeIn" />
-
-
-
-
-
-
-
-
-
-
-
 
