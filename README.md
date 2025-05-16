@@ -85,7 +85,7 @@ N'hésitez pas à :
 
 ## 🎧 En train d’écouter
 
-[![Spotify](https://novatorem-bleudragonviolet.vercel.app/api/spotify)](https://open.spotify.com/user/ton_user_id)
+[![Spotify](https://novatorem-bleudragonviolet.vercel.app/api/spotify)](https://open.spotify.com/user/Bleudragonviolet)
 
 ---
 
