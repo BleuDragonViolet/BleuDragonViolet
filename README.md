@@ -83,12 +83,6 @@ N'hésitez pas à :
 
 ---
 
-## 🎧 En train d’écouter
-
-[![Spotify](https://novatorem-bleudragonviolet.vercel.app/api/spotify)](https://open.spotify.com/user/Bleudragonviolet)
-
----
-
 ## 🤓 Fun Facts
 
 * 🔭 Je travaille sur : des projets web, Python, JS
