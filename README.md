@@ -39,6 +39,8 @@ Développeur curieux et créatif, j'explore différents langages et technologies
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+
 
 ---
 
@@ -53,3 +55,41 @@ N'hésitez pas à :
 > Merci pour votre visite, et bon codage !
 
 ---
+
+## 🌈 Pour le fun
+
+> 🎮 “Code. Test. Debug. Respawn.”
+
+![Meme](https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight&bgColor=%230d1117)
+
+---
+
+## 📊 GitHub Stats
+
+![BleuDragonViolet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BleuDragonViolet&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BleuDragonViolet&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 🧠 Dev Quote du jour
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+## 🔥 Signature stylée
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Merci%20de%20votre%20visite!%20🚀&fontColor=fff&fontSize=20&animation=fadeIn" />
+
+
+
+
+
+
+
+
+
+
+
+
