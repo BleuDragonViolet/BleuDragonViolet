@@ -14,24 +14,6 @@ Sur ce GitHub, vous trouverez un mélange de projets personnels, d'expériences 
 
 ---
 
-## 📁 Mes projets récents
-
-| Nom du projet | Description | Langage |
-|---------------|-------------|---------|
-| [tunables-update](https://github.com/BleuDragonViolet/tunables-update) | Script Lua pour GTA V | Lua | 
-| [BDV-Games](https://github.com/BleuDragonViolet/BDV-Games) | Site web HTML pour une map de mini-jeux Minecraft | HTML |
-| [Maitrise-le-Web-par-Evan](https://github.com/BleuDragonViolet/-Maitrise-le-Web-par-Evan-) | Site web pour apprendre HTML, CSS et JS | HTML |
-| [ProBac_Eectronique](https://github.com/BleuDragonViolet/ProBac_Eectronique) | Projet électronique lié au Bac | Python |
-| [snack](https://github.com/BleuDragonViolet/snack) | Jeu "Snake" en HTML | HTML |
-| [Youtube-download](https://github.com/BleuDragonViolet/Youtube-download) | Téléchargement de vidéos YouTube | Python |
-| [reveil_pixel](https://github.com/BleuDragonViolet/reveil_pixel) | Jeu de découverte d’images pixelisées | Python |
-
-
-
-➡️ Explore tous mes dépôts dans l’onglet *Repositories* !
-
----
-
 ## 🛠️ Langages et outils
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
